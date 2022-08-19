@@ -1,0 +1,18 @@
+navbar:
+  blog_title: 数据可视化Wiki
+
+
+
+footer:
+  content: '
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
+    <i class="iconfont icon-love"></i>
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <div style="font-size: 0.85rem">
+      <span id="timeDate">载入天数...</span>
+      <span id="times">载入时分秒...</span>
+      <script src="/js/duration.js"></script>
+    </div>
+    <a href="https://beian.miit.gov.cn/" target="_blank" id="record_id">鄂ICP备2021014079号-4</a>
+    <script src="/js/recordID.js"></script>
+  '
